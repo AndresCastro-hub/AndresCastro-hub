@@ -21,5 +21,4 @@
   ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase)
-  ![TypeScript](https://img.shields.io/badge/-Typescript-blue)
 <hr>
