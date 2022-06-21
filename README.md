@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Andres</h1>
+<h3 align="center">A frontend developer from Argentina.</h3>
 
-<!--
-**AndresCastro-hub/AndresCastro-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React & TypeScript**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available on [my personal portfolio](https://andres/)
+- 💬 Ask me about **React, HTML, CSS & Web design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - 📧 Send me an email: andrescastro2011@hotmail.com
+  - 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/andres-castro-664a731a2/)
+<hr>
+
+**Tech stack:**
+
+- 💻 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-FFFFFF?style=flat&logo=sass&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase)
+<hr>
