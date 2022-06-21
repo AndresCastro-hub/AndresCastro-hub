@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Andres</h1>
+<h1 align="center">Hey, I'm Andres💻</h1>
 <h3 align="center">A frontend developer from Argentina.</h3>
 
 - 🌱 I’m currently learning **React & TypeScript**
