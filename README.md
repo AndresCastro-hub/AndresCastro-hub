@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & TypeScript**
 
-- 👨‍💻 All of my projects are available on [my personal portfolio](https://andres/)
+- 👨‍💻 All of my projects are available on [my personal portfolio](https://portafolio-tau-six.vercel.app/)
 - 💬 Ask me about **React, HTML, CSS & Web design**.
 
 - 📫 How to reach me:
